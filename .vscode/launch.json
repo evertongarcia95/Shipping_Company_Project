@@ -1,0 +1,13 @@
+{
+    "version": "0.1.0",
+    "configurations": [
+        
+        {
+            "name": "shipping_company",
+            "type": "python",
+            "request": "launch",
+            "program": "/home/everton/Documentos/Repositorio_Pessoal/Shipping_company_project/run.py",
+            "console": "integratedTerminal"
+        }
+    ]
+}

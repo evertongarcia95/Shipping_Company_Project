@@ -5,8 +5,28 @@ name = "pypi"
 
 [packages]
 requests = "*"
-flask = "==1.1.2"
-flask-restplus = "==0.13.0"
+flask-restplus = "*"
+sqlalchemy = "*"
+flask-sqlalchemy = "*"
+flask-accepts = "*"
+aniso8601 = "*"
+attrs = "*"
+click = "*"
+flask-marshmallow = "*"
+greenlet = "*"
+importlib-resources = "*"
+itsdangerous = "*"
+pipenv = "*"
+jsonschema = "*"
+marshmallow = "==3.14.1"
+marshmallow-sqlalchemy = "*"
+pyrsistent = "*"
+pytz = "*"
+six = "*"
+zipp = "*"
+werkzeug = "==0.16.1"
+markupsafe = "==1.1.1"
+
 
 [dev-packages]
 
